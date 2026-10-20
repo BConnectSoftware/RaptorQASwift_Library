@@ -1,4 +1,3 @@
-
 // swift-tools-version: 5.9
 import PackageDescription
 
@@ -14,11 +13,9 @@ let package = Package(
         )
     ],
     targets: [
-        targets: [
-                .binaryTarget(
-                    name: "RaptorQALibrary",
-                    path: "Frameworks/RaptorQALibrary.xcframework"
-                )
-        ]
+        .binaryTarget(
+            name: "RaptorQALibrary",
+            path: "Frameworks/RaptorQALibrary.xcframework"
+        )
     ]
 )
