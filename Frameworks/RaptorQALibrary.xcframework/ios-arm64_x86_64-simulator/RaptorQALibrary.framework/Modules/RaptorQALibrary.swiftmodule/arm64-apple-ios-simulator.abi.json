@@ -410,27 +410,56 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:15RaptorQALibrary0A7ContextC9configure9accountId03appF0ySS_SStFZ",
+            "usr": "c:@M@RaptorQALibrary@objc(cs)RaptorContext(cm)configureWithAccountId:appId:",
             "mangledName": "$s15RaptorQALibrary0A7ContextC9configure9accountId03appF0ySS_SStFZ",
             "moduleName": "RaptorQALibrary",
             "static": true,
+            "objc_name": "configureWithAccountId:appId:",
             "declAttributes": [
               "Final",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "funcSelfKind": "NonMutating"
           }
         ],
         "declKind": "Class",
-        "usr": "s:15RaptorQALibrary0A7ContextC",
+        "usr": "c:@M@RaptorQALibrary@objc(cs)RaptorContext",
         "mangledName": "$s15RaptorQALibrary0A7ContextC",
         "moduleName": "RaptorQALibrary",
         "declAttributes": [
           "Final",
-          "AccessControl"
+          "AccessControl",
+          "ObjC"
         ],
+        "superclassUsr": "c:objc(cs)NSObject",
         "hasMissingDesignatedInitializers": true,
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
           {
             "kind": "Conformance",
             "name": "Copyable",
@@ -440,10 +469,38 @@
           },
           {
             "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
             "name": "Escapable",
             "printedName": "Escapable",
             "usr": "s:s9EscapableP",
             "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
           }
         ]
       },
@@ -756,13 +813,15 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:So16UIViewControllerC15RaptorQALibraryE20raptorQALaunchReportyyF",
+            "usr": "c:@CM@RaptorQALibrary@@objc(cs)UIViewController(im)raptorQALaunchReport",
             "mangledName": "$sSo16UIViewControllerC15RaptorQALibraryE20raptorQALaunchReportyyF",
             "moduleName": "RaptorQALibrary",
             "declAttributes": [
+              "Dynamic",
               "Preconcurrency",
               "Custom",
-              "RawDocComment"
+              "RawDocComment",
+              "ObjC"
             ],
             "isFromExtension": true,
             "funcSelfKind": "NonMutating"
@@ -791,12 +850,14 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:So16UIViewControllerC15RaptorQALibraryE03addC13ReportContent_7contentySS_SStF",
+            "usr": "c:@CM@RaptorQALibrary@@objc(cs)UIViewController(im)addRaptorReportContent:content:",
             "mangledName": "$sSo16UIViewControllerC15RaptorQALibraryE03addC13ReportContent_7contentySS_SStF",
             "moduleName": "RaptorQALibrary",
             "declAttributes": [
+              "Dynamic",
               "Preconcurrency",
-              "Custom"
+              "Custom",
+              "ObjC"
             ],
             "isFromExtension": true,
             "funcSelfKind": "NonMutating"
@@ -813,12 +874,14 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:So16UIViewControllerC15RaptorQALibraryE05clearC13ReportContentyyF",
+            "usr": "c:@CM@RaptorQALibrary@@objc(cs)UIViewController(im)clearRaptorReportContent",
             "mangledName": "$sSo16UIViewControllerC15RaptorQALibraryE05clearC13ReportContentyyF",
             "moduleName": "RaptorQALibrary",
             "declAttributes": [
+              "Dynamic",
               "Preconcurrency",
-              "Custom"
+              "Custom",
+              "ObjC"
             ],
             "isFromExtension": true,
             "funcSelfKind": "NonMutating"
@@ -967,21 +1030,21 @@
     {
       "filePath": "\/Users\/scott\/Documents\/RaptorQA Mobile\/RaptorQASwift\/RaptorQALibrary\/RaptorContext.swift",
       "kind": "StringLiteral",
-      "offset": 226,
+      "offset": 242,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/scott\/Documents\/RaptorQA Mobile\/RaptorQASwift\/RaptorQALibrary\/RaptorContext.swift",
       "kind": "StringLiteral",
-      "offset": 252,
+      "offset": 268,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/scott\/Documents\/RaptorQA Mobile\/RaptorQASwift\/RaptorQALibrary\/RaptorContext.swift",
       "kind": "BooleanLiteral",
-      "offset": 278,
+      "offset": 294,
       "length": 5,
       "value": "false"
     },
@@ -1327,6 +1390,13 @@
       "offset": 196,
       "length": 1,
       "value": "0"
+    },
+    {
+      "filePath": "\/Users\/scott\/Documents\/RaptorQA Mobile\/RaptorQASwift\/RaptorQALibrary\/RQAViewController+UIViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 1582,
+      "length": 21,
+      "value": "\"UIHostingController\""
     },
     {
       "filePath": "\/Users\/scott\/Library\/Developer\/Xcode\/DerivedData\/RaptorQALibrary-czbvmcqqdlrqyncyrfvrcildutth\/Build\/Intermediates.noindex\/ArchiveIntermediates\/RaptorQALibrary\/IntermediateBuildFilesPath\/RaptorQALibrary.build\/Release-iphonesimulator\/RaptorQALibrary.build\/DerivedSources\/GeneratedAssetSymbols.swift",

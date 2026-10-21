@@ -27,8 +27,8 @@ public struct HostEnvironmentDetector {
     get
   }
 }
-@_hasMissingDesignatedInitializers final public class RaptorContext {
-  public static func configure(accountId: Swift::String, appId: Swift::String)
+@_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @objc final public class RaptorContext : ObjectiveC::NSObject {
+  @objc public static func configure(accountId: Swift::String, appId: Swift::String)
   @objc deinit
 }
 extension SwiftUICore::View {
@@ -36,10 +36,10 @@ extension SwiftUICore::View {
   @_Concurrency::MainActor @preconcurrency public func addRaptorReportContent(_ title: Swift::String, content: Swift::String)
   @_Concurrency::MainActor @preconcurrency public func clearRaptorReportContent()
 }
-extension UIKit::UIViewController {
-  @_Concurrency::MainActor @preconcurrency public func raptorQALaunchReport()
-  @_Concurrency::MainActor @preconcurrency public func addRaptorReportContent(_ title: Swift::String, content: Swift::String)
-  @_Concurrency::MainActor @preconcurrency public func clearRaptorReportContent()
+@objc extension UIKit::UIViewController {
+  @objc @_Concurrency::MainActor @preconcurrency dynamic public func raptorQALaunchReport()
+  @objc @_Concurrency::MainActor @preconcurrency dynamic public func addRaptorReportContent(_ title: Swift::String, content: Swift::String)
+  @objc @_Concurrency::MainActor @preconcurrency dynamic public func clearRaptorReportContent()
 }
 extension RaptorQALibrary::HostEnvironment : Swift::Equatable {}
 extension RaptorQALibrary::HostEnvironment : Swift::Hashable {}
