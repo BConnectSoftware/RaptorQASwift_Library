@@ -1,4 +1,4 @@
 # RaptorQASwift_Library
-v1.0.8
+v1.0.9
 Raptor QA Swift Libraries, includes SwiftUI and UIKit 
 For SDK implementation instructions please visit http://www.raptorqa.com/sdk 

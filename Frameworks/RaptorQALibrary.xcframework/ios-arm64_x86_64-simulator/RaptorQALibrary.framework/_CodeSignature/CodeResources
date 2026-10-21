@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/RaptorQALibrary.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		7/4ZjYnFdBT4P4LEzrwGRnt7WEA=
+		ZfAthd2qBQ/ib8E8wqjgsqfvLo4=
 		</data>
 		<key>Modules/RaptorQALibrary.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/RaptorQALibrary.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ry96M7Ap/9F2GZckY/dnI6sYNM8=
+		Iz/OTvqwfNyBDRdDg829+4kpTjE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -109,7 +109,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NcoGMrVAyNTq9NMmnL1/DHazJ5+yJLveX8L6y05bFRg=
+			BBAMiBGsOrIoi6t3LHICTODdnMbGhOl0pCeYnGzsmJk=
 			</data>
 		</dict>
 		<key>Modules/RaptorQALibrary.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -144,7 +144,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4ZOy6yf1reiudxZYM0hP0ojKCU4zvQ5YakFwAL3OSkc=
+			MTlTAHahgne1WkYfpWnzFsCp7hrlGd/D0QasJuhJadU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
