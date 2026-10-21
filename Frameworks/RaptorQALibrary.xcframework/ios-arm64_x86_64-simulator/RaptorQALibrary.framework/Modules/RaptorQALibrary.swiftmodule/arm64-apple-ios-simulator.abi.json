@@ -39,13 +39,6 @@
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
-        "moduleName": "RaptorQALibrary"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
         "moduleName": "RaptorQALibrary",
         "declAttributes": [
           "RawDocComment"
@@ -616,21 +609,21 @@
     {
       "filePath": "\/Users\/scott\/Documents\/RaptorQA Mobile\/RaptorQASwift\/RaptorQALibrary\/FloatingWindowManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 7747,
+      "offset": 7783,
       "length": 2,
       "value": "14"
     },
     {
       "filePath": "\/Users\/scott\/Documents\/RaptorQA Mobile\/RaptorQASwift\/RaptorQALibrary\/FloatingWindowManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 7782,
+      "offset": 7818,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/scott\/Documents\/RaptorQA Mobile\/RaptorQASwift\/RaptorQALibrary\/FloatingWindowManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 7839,
+      "offset": 7875,
       "length": 5,
       "value": "false"
     },
@@ -791,14 +784,14 @@
     {
       "filePath": "\/Users\/scott\/Documents\/RaptorQA Mobile\/RaptorQASwift\/RaptorQALibrary\/RQAReportTableViewController.swift",
       "kind": "StringLiteral",
-      "offset": 6209,
+      "offset": 6245,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/scott\/Documents\/RaptorQA Mobile\/RaptorQASwift\/RaptorQALibrary\/RQAReportTableViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 6951,
+      "offset": 6987,
       "length": 4,
       "value": "true"
     },
