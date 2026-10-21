@@ -5,12 +5,28 @@
 import DeveloperToolsSupport
 import Foundation
 import ObjectiveC
+import Security
 import Swift
 import SwiftUI
 import UIKit
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
+public enum HostEnvironment {
+  case debug
+  case testFlight
+  case appStore
+  public static func == (a: RaptorQALibrary::HostEnvironment, b: RaptorQALibrary::HostEnvironment) -> Swift::Bool
+  public func hash(into hasher: inout Swift::Hasher)
+  public var hashValue: Swift::Int {
+    get
+  }
+}
+public struct HostEnvironmentDetector {
+  public static var current: RaptorQALibrary::HostEnvironment {
+    get
+  }
+}
 @_hasMissingDesignatedInitializers final public class RaptorContext {
   public static func configure(accountId: Swift::String, appId: Swift::String)
   @objc deinit
@@ -25,3 +41,5 @@ extension UIKit::UIViewController {
   @_Concurrency::MainActor @preconcurrency public func addRaptorReportContent(_ title: Swift::String, content: Swift::String)
   @_Concurrency::MainActor @preconcurrency public func clearRaptorReportContent()
 }
+extension RaptorQALibrary::HostEnvironment : Swift::Equatable {}
+extension RaptorQALibrary::HostEnvironment : Swift::Hashable {}

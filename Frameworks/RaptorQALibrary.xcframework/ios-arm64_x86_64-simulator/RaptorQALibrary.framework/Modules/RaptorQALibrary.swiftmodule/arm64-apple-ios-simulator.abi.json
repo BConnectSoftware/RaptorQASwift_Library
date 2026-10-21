@@ -36,6 +36,336 @@
       },
       {
         "kind": "Import",
+        "name": "Security",
+        "printedName": "Security",
+        "declKind": "Import",
+        "moduleName": "RaptorQALibrary"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "HostEnvironment",
+        "printedName": "HostEnvironment",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "debug",
+            "printedName": "debug",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(RaptorQALibrary.HostEnvironment.Type) -> RaptorQALibrary.HostEnvironment",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "HostEnvironment",
+                    "printedName": "RaptorQALibrary.HostEnvironment",
+                    "usr": "s:15RaptorQALibrary15HostEnvironmentO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "RaptorQALibrary.HostEnvironment.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "HostEnvironment",
+                        "printedName": "RaptorQALibrary.HostEnvironment",
+                        "usr": "s:15RaptorQALibrary15HostEnvironmentO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:15RaptorQALibrary15HostEnvironmentO5debugyA2CmF",
+            "mangledName": "$s15RaptorQALibrary15HostEnvironmentO5debugyA2CmF",
+            "moduleName": "RaptorQALibrary"
+          },
+          {
+            "kind": "Var",
+            "name": "testFlight",
+            "printedName": "testFlight",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(RaptorQALibrary.HostEnvironment.Type) -> RaptorQALibrary.HostEnvironment",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "HostEnvironment",
+                    "printedName": "RaptorQALibrary.HostEnvironment",
+                    "usr": "s:15RaptorQALibrary15HostEnvironmentO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "RaptorQALibrary.HostEnvironment.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "HostEnvironment",
+                        "printedName": "RaptorQALibrary.HostEnvironment",
+                        "usr": "s:15RaptorQALibrary15HostEnvironmentO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:15RaptorQALibrary15HostEnvironmentO10testFlightyA2CmF",
+            "mangledName": "$s15RaptorQALibrary15HostEnvironmentO10testFlightyA2CmF",
+            "moduleName": "RaptorQALibrary"
+          },
+          {
+            "kind": "Var",
+            "name": "appStore",
+            "printedName": "appStore",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(RaptorQALibrary.HostEnvironment.Type) -> RaptorQALibrary.HostEnvironment",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "HostEnvironment",
+                    "printedName": "RaptorQALibrary.HostEnvironment",
+                    "usr": "s:15RaptorQALibrary15HostEnvironmentO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "RaptorQALibrary.HostEnvironment.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "HostEnvironment",
+                        "printedName": "RaptorQALibrary.HostEnvironment",
+                        "usr": "s:15RaptorQALibrary15HostEnvironmentO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:15RaptorQALibrary15HostEnvironmentO8appStoreyA2CmF",
+            "mangledName": "$s15RaptorQALibrary15HostEnvironmentO8appStoreyA2CmF",
+            "moduleName": "RaptorQALibrary"
+          },
+          {
+            "kind": "Function",
+            "name": "==",
+            "printedName": "==(_:_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "HostEnvironment",
+                "printedName": "RaptorQALibrary.HostEnvironment",
+                "usr": "s:15RaptorQALibrary15HostEnvironmentO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "HostEnvironment",
+                "printedName": "RaptorQALibrary.HostEnvironment",
+                "usr": "s:15RaptorQALibrary15HostEnvironmentO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15RaptorQALibrary15HostEnvironmentO2eeoiySbAC_ACtFZ",
+            "mangledName": "$s15RaptorQALibrary15HostEnvironmentO2eeoiySbAC_ACtFZ",
+            "moduleName": "RaptorQALibrary",
+            "static": true,
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "hashValue",
+            "printedName": "hashValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15RaptorQALibrary15HostEnvironmentO9hashValueSivp",
+            "mangledName": "$s15RaptorQALibrary15HostEnvironmentO9hashValueSivp",
+            "moduleName": "RaptorQALibrary",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15RaptorQALibrary15HostEnvironmentO9hashValueSivg",
+                "mangledName": "$s15RaptorQALibrary15HostEnvironmentO9hashValueSivg",
+                "moduleName": "RaptorQALibrary",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "hash",
+            "printedName": "hash(into:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Hasher",
+                "printedName": "Swift.Hasher",
+                "paramValueOwnership": "InOut",
+                "usr": "s:s6HasherV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15RaptorQALibrary15HostEnvironmentO4hash4intoys6HasherVz_tF",
+            "mangledName": "$s15RaptorQALibrary15HostEnvironmentO4hash4intoys6HasherVz_tF",
+            "moduleName": "RaptorQALibrary",
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:15RaptorQALibrary15HostEnvironmentO",
+        "mangledName": "$s15RaptorQALibrary15HostEnvironmentO",
+        "moduleName": "RaptorQALibrary",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "HostEnvironmentDetector",
+        "printedName": "HostEnvironmentDetector",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "current",
+            "printedName": "current",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "HostEnvironment",
+                "printedName": "RaptorQALibrary.HostEnvironment",
+                "usr": "s:15RaptorQALibrary15HostEnvironmentO"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15RaptorQALibrary23HostEnvironmentDetectorV7currentAA0cD0OvpZ",
+            "mangledName": "$s15RaptorQALibrary23HostEnvironmentDetectorV7currentAA0cD0OvpZ",
+            "moduleName": "RaptorQALibrary",
+            "static": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "HostEnvironment",
+                    "printedName": "RaptorQALibrary.HostEnvironment",
+                    "usr": "s:15RaptorQALibrary15HostEnvironmentO"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15RaptorQALibrary23HostEnvironmentDetectorV7currentAA0cD0OvgZ",
+                "mangledName": "$s15RaptorQALibrary23HostEnvironmentDetectorV7currentAA0cD0OvgZ",
+                "moduleName": "RaptorQALibrary",
+                "static": true,
+                "accessorKind": "get"
+              }
+            ]
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:15RaptorQALibrary23HostEnvironmentDetectorV",
+        "mangledName": "$s15RaptorQALibrary23HostEnvironmentDetectorV",
+        "moduleName": "RaptorQALibrary",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -630,7 +960,7 @@
     {
       "filePath": "\/Users\/scott\/Documents\/RaptorQA Mobile\/RaptorQASwift\/RaptorQALibrary\/RaptorConstants.swift",
       "kind": "StringLiteral",
-      "offset": 275,
+      "offset": 291,
       "length": 35,
       "value": "\"https:\/\/raptorserver.onrender.com\""
     },
