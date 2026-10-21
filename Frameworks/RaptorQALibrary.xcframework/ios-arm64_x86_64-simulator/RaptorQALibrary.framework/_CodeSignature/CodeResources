@@ -10,7 +10,7 @@
 		</data>
 		<key>Headers/RaptorQALibrary-Swift.h</key>
 		<data>
-		IQz1UxxrLmbY2DusrTSyrWdYZxU=
+		MqboIL84PUabX9CMz7SVuwIzgj8=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/RaptorQALibrary.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		jlY6Z27Qzq9Eu8Jd98fAXoxLL1A=
+		Kqrgngl4HFHatfa/gAl50d4UFUc=
 		</data>
 		<key>Modules/RaptorQALibrary.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		GMaUYSzW396mo4lKyo8mzyQSotw=
+		pU+enOiptvSRMonBlh5ml3qS1GA=
 		</data>
 		<key>Modules/RaptorQALibrary.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -30,19 +30,19 @@
 		</data>
 		<key>Modules/RaptorQALibrary.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		GMaUYSzW396mo4lKyo8mzyQSotw=
+		pU+enOiptvSRMonBlh5ml3qS1GA=
 		</data>
 		<key>Modules/RaptorQALibrary.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		hNvumZ76GBzk90TVBIZD24HgYE0=
+		7/4ZjYnFdBT4P4LEzrwGRnt7WEA=
 		</data>
 		<key>Modules/RaptorQALibrary.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		jlY6Z27Qzq9Eu8Jd98fAXoxLL1A=
+		Kqrgngl4HFHatfa/gAl50d4UFUc=
 		</data>
 		<key>Modules/RaptorQALibrary.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		fzRsP1G8VAZX4KbCYN01eBCPzco=
+		R1mFyYgTzeb7eVcxeSOSHokE4jY=
 		</data>
 		<key>Modules/RaptorQALibrary.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -50,11 +50,11 @@
 		</data>
 		<key>Modules/RaptorQALibrary.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		fzRsP1G8VAZX4KbCYN01eBCPzco=
+		R1mFyYgTzeb7eVcxeSOSHokE4jY=
 		</data>
 		<key>Modules/RaptorQALibrary.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ll5lzuIVuw37IZ7rCwRFdenbgEM=
+		ry96M7Ap/9F2GZckY/dnI6sYNM8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -74,21 +74,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			MkGQsneqF8KVaEHwCcMz4z0Loo13CYvsAcbWSMxfNMo=
+			8aTzY49Dsfld+kqfIdVF03DJ71nqyo9CEyDNtSMW1Bs=
 			</data>
 		</dict>
 		<key>Modules/RaptorQALibrary.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8FH+7jEIvP//AF+orKJJNi2LhwmXfVWul2kIYMJj/bo=
+			hsPAmYJJ8KsbDWCdl4zJHWfLGghhnxbaDnTmgr09WPo=
 			</data>
 		</dict>
 		<key>Modules/RaptorQALibrary.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uYszj0p7iFir338eY7JfV+KnMndIDEpz4H7z3FvSMB8=
+			I9oVobiiZQDswSlZRQM2nxCYhRsDYBymjRFSEpMPoZA=
 			</data>
 		</dict>
 		<key>Modules/RaptorQALibrary.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -102,28 +102,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			uYszj0p7iFir338eY7JfV+KnMndIDEpz4H7z3FvSMB8=
+			I9oVobiiZQDswSlZRQM2nxCYhRsDYBymjRFSEpMPoZA=
 			</data>
 		</dict>
 		<key>Modules/RaptorQALibrary.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TWoOEGgKqEPcbBblPCeF406bWvzLmEGvoGFugrxcZG0=
+			NcoGMrVAyNTq9NMmnL1/DHazJ5+yJLveX8L6y05bFRg=
 			</data>
 		</dict>
 		<key>Modules/RaptorQALibrary.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8FH+7jEIvP//AF+orKJJNi2LhwmXfVWul2kIYMJj/bo=
+			hsPAmYJJ8KsbDWCdl4zJHWfLGghhnxbaDnTmgr09WPo=
 			</data>
 		</dict>
 		<key>Modules/RaptorQALibrary.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4OLz6Psxd6jUQb5QCXAz8Y0zF9sbbOpwEMJpA/G/UbI=
+			caN21YUyX1c30XLeITnFyMEQD649Shw/x/8PT9aVbEY=
 			</data>
 		</dict>
 		<key>Modules/RaptorQALibrary.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -137,14 +137,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4OLz6Psxd6jUQb5QCXAz8Y0zF9sbbOpwEMJpA/G/UbI=
+			caN21YUyX1c30XLeITnFyMEQD649Shw/x/8PT9aVbEY=
 			</data>
 		</dict>
 		<key>Modules/RaptorQALibrary.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OBUYy1eyIo97kSp+nuxlHcSar1B1yPKzuyRU8jBdzWE=
+			4ZOy6yf1reiudxZYM0hP0ojKCU4zvQ5YakFwAL3OSkc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

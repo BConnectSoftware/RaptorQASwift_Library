@@ -12,6 +12,7 @@ import UIKit
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
+import ObjectiveC.runtime
 public enum HostEnvironment {
   case debug
   case testFlight
@@ -37,6 +38,7 @@ extension SwiftUICore::View {
   @_Concurrency::MainActor @preconcurrency public func clearRaptorReportContent()
 }
 @objc extension UIKit::UIViewController {
+  @objc @_Concurrency::MainActor @preconcurrency dynamic public func captureObjCProperties(from object: UIKit::UIViewController)
   @objc @_Concurrency::MainActor @preconcurrency dynamic public func raptorQALaunchReport()
   @objc @_Concurrency::MainActor @preconcurrency dynamic public func addRaptorReportContent(_ title: Swift::String, content: Swift::String)
   @objc @_Concurrency::MainActor @preconcurrency dynamic public func clearRaptorReportContent()

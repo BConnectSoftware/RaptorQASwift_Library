@@ -590,6 +590,13 @@
       },
       {
         "kind": "Import",
+        "name": "ObjectiveC.runtime",
+        "printedName": "ObjectiveC.runtime",
+        "declKind": "Import",
+        "moduleName": "RaptorQALibrary"
+      },
+      {
+        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -801,6 +808,36 @@
         "name": "UIViewController",
         "printedName": "UIViewController",
         "children": [
+          {
+            "kind": "Function",
+            "name": "captureObjCProperties",
+            "printedName": "captureObjCProperties(from:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIViewController",
+                "printedName": "UIKit.UIViewController",
+                "usr": "c:objc(cs)UIViewController"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@RaptorQALibrary@@objc(cs)UIViewController(im)captureObjCPropertiesFrom:",
+            "mangledName": "$sSo16UIViewControllerC15RaptorQALibraryE21captureObjCProperties4fromyAB_tF",
+            "moduleName": "RaptorQALibrary",
+            "declAttributes": [
+              "Dynamic",
+              "Preconcurrency",
+              "Custom",
+              "ObjC"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
           {
             "kind": "Function",
             "name": "raptorQALaunchReport",
@@ -1387,14 +1424,14 @@
     {
       "filePath": "\/Users\/scott\/Documents\/RaptorQA Mobile\/RaptorQASwift\/RaptorQALibrary\/RQAViewController+UIViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 196,
+      "offset": 222,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/scott\/Documents\/RaptorQA Mobile\/RaptorQASwift\/RaptorQALibrary\/RQAViewController+UIViewController.swift",
       "kind": "StringLiteral",
-      "offset": 1582,
+      "offset": 1608,
       "length": 21,
       "value": "\"UIHostingController\""
     },
