@@ -8,6 +8,10 @@
 		<data>
 		V30/LV0TDXp/PncgSfJJc0FKUzI=
 		</data>
+		<key>Headers/RaptorQALibrary-Swift.h</key>
+		<data>
+		hKBH3xm8ykcWiTGNgKACYfKEY0A=
+		</data>
 		<key>Info.plist</key>
 		<data>
 		jmLucM0/+W6AK7sZtI341mAKQrs=
@@ -18,7 +22,7 @@
 		</data>
 		<key>Modules/RaptorQALibrary.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		73/CfdoiXwTD3coEyvHWt3tMcdM=
+		3AvK7L0DlJKNMFuVgeDfI9TuuNA=
 		</data>
 		<key>Modules/RaptorQALibrary.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -26,11 +30,15 @@
 		</data>
 		<key>Modules/RaptorQALibrary.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		73/CfdoiXwTD3coEyvHWt3tMcdM=
+		3AvK7L0DlJKNMFuVgeDfI9TuuNA=
 		</data>
 		<key>Modules/RaptorQALibrary.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
 		up7tB7DLa6lcxHiRPsaIh2aD+6o=
+		</data>
+		<key>Modules/module.modulemap</key>
+		<data>
+		7VNgAaiMDAPLCV/+cPDL8M4NmC0=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -40,6 +48,13 @@
 			<key>hash2</key>
 			<data>
 			MhJ0A0XtsvaWgxpiMv0nk/47uO77WfuqU8NdIxTNN50=
+			</data>
+		</dict>
+		<key>Headers/RaptorQALibrary-Swift.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			1DMOGIrMSlkkIh8lckET/D9zKT8B2i/y432uy2JZTas=
 			</data>
 		</dict>
 		<key>Modules/RaptorQALibrary.swiftmodule/arm64-apple-ios.abi.json</key>
@@ -53,7 +68,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XuKdy+M0+Qb5Ezex1kPOuyIgUQJAmKmdLBCGwenLqxo=
+			xwZXeqj9eCQ/U40cK+9rtlqDcwafNxcQZhT+zlec2UY=
 			</data>
 		</dict>
 		<key>Modules/RaptorQALibrary.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -67,7 +82,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XuKdy+M0+Qb5Ezex1kPOuyIgUQJAmKmdLBCGwenLqxo=
+			xwZXeqj9eCQ/U40cK+9rtlqDcwafNxcQZhT+zlec2UY=
 			</data>
 		</dict>
 		<key>Modules/RaptorQALibrary.swiftmodule/arm64-apple-ios.swiftmodule</key>
@@ -75,6 +90,13 @@
 			<key>hash2</key>
 			<data>
 			LzaHFwUcusd5oKpFESBcA4BjRYkn76ClEXVG3ae3+HE=
+			</data>
+		</dict>
+		<key>Modules/module.modulemap</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			iNJJfOtIfD21/mZdl+kpiAi1lj7K2uNEKmJQWuY3aOc=
 			</data>
 		</dict>
 	</dict>
