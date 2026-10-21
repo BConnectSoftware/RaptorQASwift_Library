@@ -10,15 +10,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		TyconrXrjLcuT7+uKASOQnGKnZ0=
+		jmLucM0/+W6AK7sZtI341mAKQrs=
 		</data>
 		<key>Modules/RaptorQALibrary.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		BruGxBh4ItXufiXzNXdbieG0D2k=
+		Jmww3e3WUZMq7826QpTkGjRWPM4=
 		</data>
 		<key>Modules/RaptorQALibrary.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		p64MXrk4x8c3YkrfGwdvfJTstKI=
+		3yx86h6cTfXQ4twHmk9aqrKS7MU=
 		</data>
 		<key>Modules/RaptorQALibrary.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -26,11 +26,11 @@
 		</data>
 		<key>Modules/RaptorQALibrary.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		p64MXrk4x8c3YkrfGwdvfJTstKI=
+		3yx86h6cTfXQ4twHmk9aqrKS7MU=
 		</data>
 		<key>Modules/RaptorQALibrary.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		FssCCUuM31jBCEY9WZlbTr8I/QA=
+		DpGAL4FpKCgiMEKNeY/W9PmYxGw=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -46,14 +46,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0RXfjOErbyyGZkzSIzs4AR08kvFKJVtZl2LIUmAkjvA=
+			0q4yHUn1RKqckEozPohRwQWrkA0GoZsLN8GDzPocLQo=
 			</data>
 		</dict>
 		<key>Modules/RaptorQALibrary.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9W3SyafV3j58J3S3PppWv5fGCFS7K/RT2WofCKhlqCs=
+			BjKoz9BdU1+r8PUwBaYKXmUIDIcvp7rcZJuJDHFmOn8=
 			</data>
 		</dict>
 		<key>Modules/RaptorQALibrary.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -67,14 +67,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9W3SyafV3j58J3S3PppWv5fGCFS7K/RT2WofCKhlqCs=
+			BjKoz9BdU1+r8PUwBaYKXmUIDIcvp7rcZJuJDHFmOn8=
 			</data>
 		</dict>
 		<key>Modules/RaptorQALibrary.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HSJf0QYoRHc8EYCwei9H7w2HZPUIDmytR8BKTMPBlK4=
+			yK5lIRHUJt+/uWOPYUdD6+V7TAhG1bO+xxk1k0Th6Us=
 			</data>
 		</dict>
 	</dict>

@@ -11,6 +11,10 @@ import UIKit
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
+@_hasMissingDesignatedInitializers final public class RaptorContext {
+  public static func configure(accountId: Swift::String, appId: Swift::String)
+  @objc deinit
+}
 extension SwiftUICore::View {
   @_Concurrency::MainActor @preconcurrency public func setRaptorReportSnapshotProvider(_ provider: (() -> [(title: Swift::String, description: Swift::String)])?)
   @_Concurrency::MainActor @preconcurrency public func addRaptorReportContent(_ title: Swift::String, content: Swift::String)
