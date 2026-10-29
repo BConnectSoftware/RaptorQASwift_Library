@@ -10,7 +10,7 @@
 		</data>
 		<key>Headers/RaptorQALibrary-Swift.h</key>
 		<data>
-		8TPtXmvGpSeGw/wCoA87HHLo61Q=
+		5ugMcqY3yJo8GcLscem+/5EfTIE=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/RaptorQALibrary.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		2nD9xKBWp1R4VGIRrn7c3K42DQg=
+		00MhZCTYe+kajC2nGfl7IubD3Bg=
 		</data>
 		<key>Modules/RaptorQALibrary.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		c8BkEZJ7lGwu4H3Z19bA1cJ5LZ8=
+		DTN/0gQjVOvQ76CKFICdHA8YESc=
 		</data>
 		<key>Modules/RaptorQALibrary.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -30,11 +30,11 @@
 		</data>
 		<key>Modules/RaptorQALibrary.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		c8BkEZJ7lGwu4H3Z19bA1cJ5LZ8=
+		DTN/0gQjVOvQ76CKFICdHA8YESc=
 		</data>
 		<key>Modules/RaptorQALibrary.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		71iGsfEaB00oVwJR+khF4oYZyEA=
+		VvYC2nkqQerF5BoP3Vk2ScAi53I=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -54,21 +54,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xKrYw0Xs54hkdR6f9d13RJKWN8dPM1M16OnpCUgBahM=
+			YCP11AEbC/fcNWvTzKVf0Vl2JvUUzo8OZ98tVVrohtk=
 			</data>
 		</dict>
 		<key>Modules/RaptorQALibrary.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ga2/LlZa8gcBI9/J3jzNhEXba8kx3vuu9xyIrSrnS28=
+			KijhnDOALleC8d4hNF/ZrbRknBt57VNHaSLgB4+1v5w=
 			</data>
 		</dict>
 		<key>Modules/RaptorQALibrary.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1Z7UilG73wbDpzPoxzNQpEQHVHMzIBpbDGkO16JaXjQ=
+			JlYFeMvwJQmOdzMnD/qD5k0ZXXrkJNYojRBZkrSejBg=
 			</data>
 		</dict>
 		<key>Modules/RaptorQALibrary.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -82,14 +82,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1Z7UilG73wbDpzPoxzNQpEQHVHMzIBpbDGkO16JaXjQ=
+			JlYFeMvwJQmOdzMnD/qD5k0ZXXrkJNYojRBZkrSejBg=
 			</data>
 		</dict>
 		<key>Modules/RaptorQALibrary.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qOuZlDp4vQ9yYf+E8lZnoADJyVV3KT3Z63CXqEzBOIA=
+			6qC+xQx1ikflspQZLZooa3jq/pn9XhUw/Ej237MJbYY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

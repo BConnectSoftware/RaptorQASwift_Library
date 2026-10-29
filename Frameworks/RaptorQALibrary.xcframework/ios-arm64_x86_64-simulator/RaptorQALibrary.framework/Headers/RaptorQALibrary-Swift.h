@@ -380,6 +380,7 @@ SWIFT_CLASS("_TtC15RaptorQALibrary13RaptorContext")
 @end
 
 @interface UIViewController (SWIFT_EXTENSION(RaptorQALibrary))
+@property (nonatomic, readonly) uint64_t raptorQAId;
 - (void)captureObjCPropertiesFrom:(UIViewController * _Nonnull)object;
 - (void)raptorQALaunchReport;
 - (void)addRaptorReportContent:(NSString * _Nonnull)title content:(NSString * _Nonnull)content;
@@ -776,6 +777,7 @@ SWIFT_CLASS("_TtC15RaptorQALibrary13RaptorContext")
 @end
 
 @interface UIViewController (SWIFT_EXTENSION(RaptorQALibrary))
+@property (nonatomic, readonly) uint64_t raptorQAId;
 - (void)captureObjCPropertiesFrom:(UIViewController * _Nonnull)object;
 - (void)raptorQALaunchReport;
 - (void)addRaptorReportContent:(NSString * _Nonnull)title content:(NSString * _Nonnull)content;

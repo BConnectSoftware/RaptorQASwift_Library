@@ -33,11 +33,17 @@ public struct HostEnvironmentDetector {
   @objc deinit
 }
 extension SwiftUICore::View {
+  @_Concurrency::MainActor @preconcurrency public var raptorQAId: Swift::UInt64 {
+    get
+  }
   @_Concurrency::MainActor @preconcurrency public func setRaptorReportSnapshotProvider(_ provider: (() -> [(title: Swift::String, description: Swift::String)])?)
   @_Concurrency::MainActor @preconcurrency public func addRaptorReportContent(_ title: Swift::String, content: Swift::String)
   @_Concurrency::MainActor @preconcurrency public func clearRaptorReportContent()
 }
 @objc extension UIKit::UIViewController {
+  @objc @_Concurrency::MainActor @preconcurrency dynamic public var raptorQAId: Swift::UInt64 {
+    @objc get
+  }
   @objc @_Concurrency::MainActor @preconcurrency dynamic public func captureObjCProperties(from object: UIKit::UIViewController)
   @objc @_Concurrency::MainActor @preconcurrency dynamic public func raptorQALaunchReport()
   @objc @_Concurrency::MainActor @preconcurrency dynamic public func addRaptorReportContent(_ title: Swift::String, content: Swift::String)

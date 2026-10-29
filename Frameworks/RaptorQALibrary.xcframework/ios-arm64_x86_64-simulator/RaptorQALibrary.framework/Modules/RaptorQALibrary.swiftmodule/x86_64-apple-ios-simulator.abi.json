@@ -629,6 +629,51 @@
         "printedName": "View",
         "children": [
           {
+            "kind": "Var",
+            "name": "raptorQAId",
+            "printedName": "raptorQAId",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UInt64",
+                "printedName": "Swift.UInt64",
+                "usr": "s:s6UInt64V"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:7SwiftUI4ViewP15RaptorQALibraryE10raptorQAIds6UInt64Vvp",
+            "mangledName": "$s7SwiftUI4ViewP15RaptorQALibraryE10raptorQAIds6UInt64Vvp",
+            "moduleName": "RaptorQALibrary",
+            "declAttributes": [
+              "Preconcurrency",
+              "Custom"
+            ],
+            "isFromExtension": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UInt64",
+                    "printedName": "Swift.UInt64",
+                    "usr": "s:s6UInt64V"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7SwiftUI4ViewP15RaptorQALibraryE10raptorQAIds6UInt64Vvg",
+                "mangledName": "$s7SwiftUI4ViewP15RaptorQALibraryE10raptorQAIds6UInt64Vvg",
+                "moduleName": "RaptorQALibrary",
+                "genericSig": "<τ_0_0 where τ_0_0 : SwiftUI.View>",
+                "sugared_genericSig": "<Self where Self : SwiftUI.View>",
+                "isFromExtension": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
             "kind": "Function",
             "name": "setRaptorReportSnapshotProvider",
             "printedName": "setRaptorReportSnapshotProvider(_:)",
@@ -808,6 +853,55 @@
         "name": "UIViewController",
         "printedName": "UIViewController",
         "children": [
+          {
+            "kind": "Var",
+            "name": "raptorQAId",
+            "printedName": "raptorQAId",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UInt64",
+                "printedName": "Swift.UInt64",
+                "usr": "s:s6UInt64V"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@CM@RaptorQALibrary@@objc(cs)UIViewController(py)raptorQAId",
+            "mangledName": "$sSo16UIViewControllerC15RaptorQALibraryE10raptorQAIds6UInt64Vvp",
+            "moduleName": "RaptorQALibrary",
+            "declAttributes": [
+              "Dynamic",
+              "Preconcurrency",
+              "Custom",
+              "ObjC"
+            ],
+            "isFromExtension": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UInt64",
+                    "printedName": "Swift.UInt64",
+                    "usr": "s:s6UInt64V"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@CM@RaptorQALibrary@@objc(cs)UIViewController(im)raptorQAId",
+                "mangledName": "$sSo16UIViewControllerC15RaptorQALibraryE10raptorQAIds6UInt64Vvg",
+                "moduleName": "RaptorQALibrary",
+                "declAttributes": [
+                  "Dynamic",
+                  "ObjC"
+                ],
+                "isFromExtension": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
           {
             "kind": "Function",
             "name": "captureObjCProperties",
@@ -1066,24 +1160,45 @@
     },
     {
       "filePath": "\/Users\/scott\/Documents\/RaptorQA Mobile\/RaptorQASwift\/RaptorQALibrary\/RaptorContext.swift",
+      "kind": "IntegerLiteral",
+      "offset": 221,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/scott\/Documents\/RaptorQA Mobile\/RaptorQASwift\/RaptorQALibrary\/RaptorContext.swift",
       "kind": "StringLiteral",
-      "offset": 242,
+      "offset": 292,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/scott\/Documents\/RaptorQA Mobile\/RaptorQASwift\/RaptorQALibrary\/RaptorContext.swift",
       "kind": "StringLiteral",
-      "offset": 268,
+      "offset": 318,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/scott\/Documents\/RaptorQA Mobile\/RaptorQASwift\/RaptorQALibrary\/RaptorContext.swift",
       "kind": "BooleanLiteral",
-      "offset": 294,
+      "offset": 344,
       "length": 5,
       "value": "false"
+    },
+    {
+      "filePath": "\/Users\/scott\/Documents\/RaptorQA Mobile\/RaptorQASwift\/RaptorQALibrary\/RaptorContext.swift",
+      "kind": "Dictionary",
+      "offset": 418,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/scott\/Documents\/RaptorQA Mobile\/RaptorQASwift\/RaptorQALibrary\/RaptorContext.swift",
+      "kind": "Dictionary",
+      "offset": 493,
+      "length": 3,
+      "value": "[]"
     },
     {
       "filePath": "\/Users\/scott\/Documents\/RaptorQA Mobile\/RaptorQASwift\/RaptorQALibrary\/RQAInputTableViewCell.swift",
@@ -1214,14 +1329,14 @@
     {
       "filePath": "\/Users\/scott\/Documents\/RaptorQA Mobile\/RaptorQASwift\/RaptorQALibrary\/RQAReportTableViewController.swift",
       "kind": "StringLiteral",
-      "offset": 6245,
+      "offset": 6250,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/scott\/Documents\/RaptorQA Mobile\/RaptorQASwift\/RaptorQALibrary\/RQAReportTableViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 6987,
+      "offset": 6992,
       "length": 4,
       "value": "true"
     },
@@ -1422,16 +1537,23 @@
       "value": "false"
     },
     {
+      "filePath": "\/Users\/scott\/Documents\/RaptorQA Mobile\/RaptorQASwift\/RaptorQALibrary\/RQAView+View.swift",
+      "kind": "IntegerLiteral",
+      "offset": 143,
+      "length": 1,
+      "value": "0"
+    },
+    {
       "filePath": "\/Users\/scott\/Documents\/RaptorQA Mobile\/RaptorQASwift\/RaptorQALibrary\/RQAViewController+UIViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 222,
+      "offset": 218,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/scott\/Documents\/RaptorQA Mobile\/RaptorQASwift\/RaptorQALibrary\/RQAViewController+UIViewController.swift",
       "kind": "StringLiteral",
-      "offset": 1608,
+      "offset": 1688,
       "length": 21,
       "value": "\"UIHostingController\""
     },

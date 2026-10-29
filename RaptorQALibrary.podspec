@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'RaptorQALibrary'
-  s.version      = '1.0.11'
+  s.version      = '1.0.12'
   s.summary      = 'In-app QA reporting SDK for iOS applications.'
   s.description  = <<-DESC
     RaptorQALibrary provides in-app QA reporting capabilities
