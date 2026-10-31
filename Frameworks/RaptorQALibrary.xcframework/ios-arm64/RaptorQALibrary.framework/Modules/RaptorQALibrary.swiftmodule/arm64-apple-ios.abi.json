@@ -1329,14 +1329,14 @@
     {
       "filePath": "\/Users\/scott\/Documents\/RaptorQA Mobile\/RaptorQASwift\/RaptorQALibrary\/RQAReportTableViewController.swift",
       "kind": "StringLiteral",
-      "offset": 6250,
+      "offset": 6289,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/scott\/Documents\/RaptorQA Mobile\/RaptorQASwift\/RaptorQALibrary\/RQAReportTableViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 6992,
+      "offset": 7031,
       "length": 4,
       "value": "true"
     },
