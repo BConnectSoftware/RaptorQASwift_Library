@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
     'BConnect Software LLC' => 'support@raptorqa.com'
   }
 
-  s.platform     = :ios, '15.0'
+  s.platform     = :ios, '17.6'
   s.source       = {
     :git => 'https://github.com/BConnectSoftware/RaptorQASwift_Library.git',
     :tag => s.version.to_s
