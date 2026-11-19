@@ -6,15 +6,15 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		V30/LV0TDXp/PncgSfJJc0FKUzI=
+		kgG0jXikNRiA+qjtvLrOQe+WJmY=
 		</data>
 		<key>Headers/RaptorQALibrary-Swift.h</key>
 		<data>
-		5ugMcqY3yJo8GcLscem+/5EfTIE=
+		Pl3IxjZcoXT1L0jZZCMA7KT46kM=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		jmLucM0/+W6AK7sZtI341mAKQrs=
+		UlqnL0Ay+01WLWc0GbkoJSoEClE=
 		</data>
 		<key>Modules/RaptorQALibrary.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -22,19 +22,19 @@
 		</data>
 		<key>Modules/RaptorQALibrary.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		DTN/0gQjVOvQ76CKFICdHA8YESc=
+		h1AWQ9Paj+XlwK3b11FW9G6gfsg=
 		</data>
 		<key>Modules/RaptorQALibrary.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		xRhP5B9gUiH2/62b7HqBhC55Mo8=
+		UmqPKIjM2IkNXpY0bz7bWbxXT0w=
 		</data>
 		<key>Modules/RaptorQALibrary.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		DTN/0gQjVOvQ76CKFICdHA8YESc=
+		h1AWQ9Paj+XlwK3b11FW9G6gfsg=
 		</data>
 		<key>Modules/RaptorQALibrary.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		XOJgfN9bwGxmbXUeTz/XkGKr6g4=
+		jlJDD/hp3MXmSrM5L6JqePLRav8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -47,14 +47,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			MhJ0A0XtsvaWgxpiMv0nk/47uO77WfuqU8NdIxTNN50=
+			LWODih3cdsAhQcnvJPmZC6rHVfUtcGGAUbIMnaa0w5c=
 			</data>
 		</dict>
 		<key>Headers/RaptorQALibrary-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YCP11AEbC/fcNWvTzKVf0Vl2JvUUzo8OZ98tVVrohtk=
+			06RBzlkASjO5jR1nCBdQ7RvF1xAfEB1hqLiNbmG//Bw=
 			</data>
 		</dict>
 		<key>Modules/RaptorQALibrary.swiftmodule/arm64-apple-ios.abi.json</key>
@@ -68,28 +68,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JlYFeMvwJQmOdzMnD/qD5k0ZXXrkJNYojRBZkrSejBg=
+			m9DgRoXpr+bRm/s/GNIENsem86EESG7jOfZ30YNyvks=
 			</data>
 		</dict>
 		<key>Modules/RaptorQALibrary.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9t3n1khT+Hoi0oiEn867Z8U2xaRJqc9LMSFSR447d/I=
+			0tul/ECu7DQl14E/knjEMyhDSyMOPlDXr0ISPM2oTd8=
 			</data>
 		</dict>
 		<key>Modules/RaptorQALibrary.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JlYFeMvwJQmOdzMnD/qD5k0ZXXrkJNYojRBZkrSejBg=
+			m9DgRoXpr+bRm/s/GNIENsem86EESG7jOfZ30YNyvks=
 			</data>
 		</dict>
 		<key>Modules/RaptorQALibrary.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ABnRO3RQbq0U2LSbR/5jNEOW6omsHuXQ2pswxGsNC6M=
+			aT+xIqy6F6Xyk2EX8I2jVmJpeQEg8HAconpyHQkQzEA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
